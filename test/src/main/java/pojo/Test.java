@@ -6,7 +6,7 @@ import org.springframework.stereotype.Component;
 public class Test {
 
 	public void test(){
-		System.out.println("test");
+		System.out.println("test-spring");
 	}
 
 }
